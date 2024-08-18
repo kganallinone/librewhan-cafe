@@ -13,5 +13,7 @@
 - Chat Bot System
 - Payment Method : COD
 - Admin System
+  * User Management
+  * Dashboard
 
 
